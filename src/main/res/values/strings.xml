@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BaateinKaro</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="please_enter_the_number_you_will_be_using_to_communicate">Please enter the number you will be using to communicate</string>
+    <string name="verify_you_number">Verify you Number</string>
+    <string name="welcome_to_baateinkaro">Welcome to BaateinKaro</string>
+    <string name="continue_prompt">CONTINUE</string>
+    <string name="verifying_phone_number">Waiting For OTP</string>
+    <string name="waiting_message">Waiting to automatically detect SMS sent to</string>
+    <string name="verify_this_number">Verify this number</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="please_provided_your_name_and_an_profile_photo">Please provided your name and an profile photo</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="next">next</string>
+</resources>
